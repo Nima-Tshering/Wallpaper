@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "83459382359",
+    "firebase_url": "https://wallpaper-app-2a252.firebaseio.com",
+    "project_id": "wallpaper-app-2a252",
+    "storage_bucket": "wallpaper-app-2a252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83459382359:android:a1e3edf543abf4a8",
+        "android_client_info": {
+          "package_name": "com.example.gyarongnt.wallhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83459382359-9jm85elbv8qrn23ecl2o19hf4tvt903n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1THao7Q1SjkFj8jxhRHg7XamdddtDxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
